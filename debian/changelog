@@ -1,9 +1,10 @@
-camx-firmware-lemans (1.0.17-1) UNRELEASED; urgency=low
+camx-firmware-lemans (1.0.17-1) resolute; urgency=low
 
+  [ Qualcomm Camera Team ]
   *   Enable Lemans and Monaco firmware packages
 
 
- -- Qualcomm Camera Team <camx.deb.maintainers@qti.qualcomm.com>  Fri, 1 Sep 2026 16:56:15 +0000
+ -- GitHub Service Bot <githubservice@qti.qualcomm.com>  Tue, 15 Sep 2026 16:20:25 +0000
 
 camx-firmware-lemans (1.0.14-1) resolute; urgency=medium
 
